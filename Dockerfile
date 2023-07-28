@@ -1,4 +1,6 @@
 # Author: blss-tico (github.com/blss-tico)
+# Dockerhub: blsstico/fullcycle
+
 # first stage orginal image
 FROM golang:1.21rc3-alpine AS stg1
 WORKDIR /go
